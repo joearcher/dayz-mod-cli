@@ -8,6 +8,7 @@ class CfgPatches
 		requiredAddons[]=
 		{
 			"DZ_Scripts",
+			"DZ_Data",
 		};
 	};
 };
@@ -29,9 +30,7 @@ class CfgMods
 		type="mod";
 		dependencies[]=
 		{
-			{ game dep }
-			{ world dep }
-			{ mission dep }
+			{ game dep }{ world dep }{ mission dep }
 		};
 		class defs
 		{
