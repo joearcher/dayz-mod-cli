@@ -7,16 +7,16 @@ A CLI tool for creating DayZ mod skeletons.
 `dayzmod create` starts the process.
 
 Provide a name for your mod (spaces will be converted to underscores)
-![image](https://github.com/user-attachments/assets/fc844e22-f655-4a96-b719-ed281893063b)
+![Screenshot From 2025-05-10 09-34-44](https://github.com/user-attachments/assets/11a9c1f4-5f9d-4bbf-8f3a-0e70b07617ce)
 
 
 Select which script modules you would like to include
-![image](https://github.com/user-attachments/assets/ae1d6e0c-15ea-4f34-b22a-4cd406195e81)
+![Screenshot From 2025-05-10 09-35-42](https://github.com/user-attachments/assets/27a971eb-ce00-4e65-81d7-22ba0a7778d3)
 
-![image](https://github.com/user-attachments/assets/76ce0e33-535b-4037-a03f-c8ee6459b2b8)
+![Screenshot From 2025-05-10 09-36-28](https://github.com/user-attachments/assets/dd68c9b4-048d-4482-9e5e-815259a9348e)
 
 Hit enter and voila!
-![image](https://github.com/user-attachments/assets/0a994a92-faf1-499f-a62f-001ddd61cffa)
+![Screenshot From 2025-05-10 09-36-59](https://github.com/user-attachments/assets/11b5f811-d525-49de-82a4-9d95c60f53c0)
 
-![image](https://github.com/user-attachments/assets/4ed5316e-1e13-4fb2-b249-c2664a1a4c50)
+![Screenshot From 2025-05-10 09-41-01](https://github.com/user-attachments/assets/8292b9ae-8b45-4e2b-89ea-63ab666f2f7f)
 
